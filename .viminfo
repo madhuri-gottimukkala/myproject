@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1739984418,,"wq"
+|2,0,1739996597,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,31 @@
 # Registers:
 
 # File marks:
-'0  4  0  ~/.netrc
-|4,48,4,0,1739984418,"~/.netrc"
+'0  1  0  ~/newproject/newproject/test
+|4,48,1,0,1739996597,"~/newproject/newproject/test"
+'1  4  0  ~/.netrc
+|4,49,4,0,1739984418,"~/.netrc"
 
 # Jumplist (newest first):
+-'  1  0  ~/newproject/newproject/test
+|4,39,1,0,1739996597,"~/newproject/newproject/test"
+-'  4  0  ~/.netrc
+|4,39,4,0,1739984418,"~/.netrc"
 -'  4  0  ~/.netrc
 |4,39,4,0,1739984418,"~/.netrc"
 -'  1  0  ~/.netrc
 |4,39,1,0,1739984358,"~/.netrc"
+-'  1  0  ~/.netrc
+|4,39,1,0,1739984358,"~/.netrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/newproject/newproject/test
+	*	1739996594	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/.netrc
 	*	1739984416	0
